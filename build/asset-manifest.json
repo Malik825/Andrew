@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Malik825/reactApplication/static/css/main.aaba088c.css",
+    "main.js": "/Malik825/reactApplication/static/js/main.ce53a5b2.js",
+    "static/media/home.jpg": "/Malik825/reactApplication/static/media/home.dcb2c14a96b954cb0b94.jpg",
+    "static/media/services.jpg": "/Malik825/reactApplication/static/media/services.3de8efae226ab3a30b70.jpg",
+    "static/media/about.jpg": "/Malik825/reactApplication/static/media/about.1c8a81373f650ddfc795.jpg",
+    "static/media/testimonial.jpg": "/Malik825/reactApplication/static/media/testimonial.19a2a77a4f9aca19bb95.jpg",
+    "static/media/contact.jpg": "/Malik825/reactApplication/static/media/contact.f4e1e45e84857f62b89e.jpg",
+    "static/media/team.jpg": "/Malik825/reactApplication/static/media/team.8b235bb8e3a28d8a52e9.jpg",
+    "static/media/Paul Dimitrov.jpeg": "/Malik825/reactApplication/static/media/Paul Dimitrov.ced6f7940419584bcc42.jpeg",
+    "static/media/Kathy Howell.jpeg": "/Malik825/reactApplication/static/media/Kathy Howell.8a39e4f384c1a7c80ec1.jpeg",
+    "static/media/Andrew Harrison.jpeg": "/Malik825/reactApplication/static/media/Andrew Harrison.fd91f09268a2738ad74e.jpeg",
+    "static/media/Joyce Barney.jpeg": "/Malik825/reactApplication/static/media/Joyce Barney.0d6d80582c6384ba99ac.jpeg",
+    "index.html": "/Malik825/reactApplication/index.html",
+    "main.aaba088c.css.map": "/Malik825/reactApplication/static/css/main.aaba088c.css.map",
+    "main.ce53a5b2.js.map": "/Malik825/reactApplication/static/js/main.ce53a5b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaba088c.css",
+    "static/js/main.ce53a5b2.js"
+  ]
+}
