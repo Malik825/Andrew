@@ -4,7 +4,7 @@ import Box from '@mui/material/Box';
 import './Team.css';
 import ImageListItem from '@mui/material/ImageListItem';
 import ImageListItemBar from '@mui/material/ImageListItemBar';
-import JoyceBarney from './Joyce Barney.jpeg'
+import CharlotteAldersleyBray from './Charlotte Aldersley Bray.jpeg'
 import MattSanchez from './Matt Sanchez.jpeg'
 import PaulDimitrov from './Paul Dimitrov.jpeg'
 import AndrewHarrison from './Andrew Harrison.jpeg'
@@ -20,8 +20,8 @@ const teamData = [
         position: 'Founder'
     },
     {
-        img: JoyceBarney,
-        name: 'Joyce Barney',
+        img: CharlotteAldersleyBray,
+        name: 'Charlotte Aldersley Bray',
         position: 'Attorney'
     },
     {
@@ -79,10 +79,10 @@ function Team() {
                     lower mainland, certainly in Paragould, Arkansas.
                     <p></p>
                     For several years we also had a contract to represent Child and Family Services weekly in
-                    protection of children cases under our firm. During that time, Joyce Barney had the reputation
-                    as one of the busiest commercial corporate lawyers in the Ontario Region.
+                    protection of children cases under our firm. During that time, Charlotte Aldersley Bray had the reputation
+                    as one of the busiest commercial corporate lawyers in the Ontario Region and well recognized in Europe.
                     <p></p>
-                    All of this work was performed exclusively by Joyce Barney, Paul Dimitrov and myself  until
+                    All of this work was performed exclusively by Charlotte Aldersley Bray, Paul Dimitrov and myself  until
                     we were joined by Kathy Howell and Matt Sanchez in 1998.” - Andrew Harrison.
                 </section>
             </Box>
