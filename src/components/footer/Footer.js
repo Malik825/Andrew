@@ -24,7 +24,7 @@ function Footer() {
 					</section>
 
 					<section id='contact'>
-						<LocalPhoneIcon color="action" sx={{ color: grey[800] }} /> +8 (807) 232 6163 
+						<LocalPhoneIcon color="action" sx={{ color: grey[800] }} /> +1 (870) 232 6163
 						<br />
 						<MyLocationIcon color="action" sx={{ color: grey[800] }} /> 504 S 2nd Ave, Paragould, Arkansas, 72450
 					</section>
